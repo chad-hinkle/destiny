@@ -1,0 +1,627 @@
+// Source https://docs.google.com/spreadsheets/u/0/d/18gjoLA3nYzA9haByOY1BILaS7j1xlssL2A1Vwx1CdLA/htmlview
+
+// Primary Weapons
+
+/// Auto Rifles
+
+//// The Last Breath
+//notes:pve. B-tier. Demolitionist > Subsistence, Frenzy OR One For All
+dimwishlist:item=507038823&perks=,1561002382,3523296417,4104185692
+dimwishlist:item=507038823&perks=,1561002382,1820235745,4104185692
+dimwishlist:item=507038823&perks=,1561002382,3523296417,4049631843
+dimwishlist:item=507038823&perks=,1561002382,1820235745,4049631843
+
+//// Rufus's Fury
+//notes:pve. A-tier. Demolitionist OR Pugilist
+dimwishlist:item=484515708&perks=,1561002382,3523296417,4104185692
+dimwishlist:item=484515708&perks=,1561002382,691659142,4104185692
+
+//// Krait
+//notes:pve. B-tier. Stats For All > Subsistence
+dimwishlist:item=2852052802&perks=,1561002382,1583705720,4049631843
+dimwishlist:item=2852052802&perks=,1561002382,1820235745,4049631843
+
+//// Ammit AR2
+//notes:pve. B-tier.
+dimwishlist:item=2119346509&perks=,1561002382,1583705720,4049631843
+
+//// Sweet Sorrow
+//notes:pve. B-tier.
+dimwishlist:item=1248372789&perks=,1583705720,4049631843
+
+//// Ros Arago IV
+//notes:pve. C-tier. Rewind Rounds > Subsistence
+dimwishlist:item=3583275737&perks=,3418782618,2610012052
+dimwishlist:item=3583275737&perks=,1820235745,2610012052
+
+/// Bows
+
+//// Fel Taradiddle
+//notes:pve. C-tier. Draw Time MW
+dimwishlist:item=1399109800&perks=2801223209,3429800428,201365942,3365897133
+dimwishlist:item=1399109800&perks=2801223209,3827198035,201365942,3365897133
+
+//// Vengeful Whisper
+//notes:pve. C-tier. Draw Time MW. Successful Warmup OR Hatchling
+dimwishlist:item=839344841&perks=2801223209,3429800428,201365942,2652708987
+dimwishlist:item=839344841&perks=2801223209,3429800428,201365942,831391274
+
+//// Raconteur
+//notes:pve. D-tier. Draw Time MW. Archer's Tempo (E) OR Wellspring, Explosive Head OR Successful Warmup
+dimwishlist:item=45643573&perks=2801223209,3429800428,3523746922,3365897133
+dimwishlist:item=45643573&perks=2801223209,3429800428,3592538738,3365897133
+dimwishlist:item=45643573&perks=2801223209,3429800428,3523746922,2652708987
+dimwishlist:item=45643573&perks=2801223209,3429800428,3592538738,2652708987
+
+//// Tyranny of Heaven
+//notes: pve. A-tier. Draw Time MW. Explosive Head > Dragonfly, Incandescent (E) OR Golden Tricorn (E)
+dimwishlist:item=3388655311&perks=2801223209,3827198035,3365897133,2675184851
+dimwishlist:item=3388655311&perks=2801223209,3827198035,2848615171,2675184851
+dimwishlist:item=3388655311&perks=2801223209,3827198035,2848615171,4290541820
+dimwishlist:item=3388655311&perks=2801223209,3827198035,3365897133,4290541820
+
+//// Arsenic Bite-4B
+//notes: pve. B-tier. Draw Time MW. Explosive Head >> Archer's Tempo
+dimwishlist:item=720351795&perks=2801223209,3429800428,3425386926,3365897133
+dimwishlist:item=720351795&perks=2801223209,3429800428,3425386926,201365942
+
+//// Lethophobia
+//notes: pve. B-tier. Draw Time MW. Successful Warmup OR Repulsor Brace, Golden Tricorn OR Surrounded
+dimwishlist:item=3710082365&perks=2801223209,3429800428,2652708987,2610012052
+dimwishlist:item=3710082365&perks=2801223209,3429800428,2652708987,3708227201
+dimwishlist:item=3710082365&perks=2801223209,3429800428,776531651,3708227201
+dimwishlist:item=3710082365&perks=2801223209,3429800428,776531651,3708227201
+
+//// Fatebringer
+//notes: pve. S-tier. Frenzy >> Firefly
+dimwishlist:item=2171478765&perks=,1087426260,3038247973,4104185692
+dimwishlist:item=2171478765&perks=,1087426260,3038247973,3824105627
+
+//// Kept Confidence
+//notes: pve. F-tier. Collective Action OR Multikill Clip
+dimwishlist:item=1875512595&perks=,1583705720,3324494224
+dimwishlist:item=1875512595&perks=,1583705720,2458213969
+
+//// Vulpecula
+//notes: pve. C-tier.
+dimwishlist:item=1622998472&perks=,3700496672,3038247973
+
+//// Zaouli's Bane
+//notes: pve. S-tier. One For All (E) >> Firefly
+dimwishlist:item=431721920&perks=,3038247973,859780267
+dimwishlist:item=431721920&perks=,3038247973,3824105627
+
+//// Posterity
+//notes: pve. S-tier.
+dimwishlist:item=3281285075&perks=,2173046394,4104185692
+dimwishlist:item=3281285075&perks=,1720528630,4104185692
+
+//// Word of Crota
+//notes: pve. B-tier. Demolitionist OR Dragonfly
+dimwishlist:item=120706239&perks=,3523296417,4104185692
+dimwishlist:item=120706239&perks=,2848615171,4104185692
+
+/// Pulse Rifles
+
+//// Autumn Wind
+//notes: pve. B-tier. Demolitionist OR Pugilist, Frenzy >> (Adrenaline Junkie OR Rampage)
+dimwishlist:item=120706239&perks=,2848615171,4104185692
+dimwishlist:item=3110377595&perks=,1561002382,691659142,4104185692
+dimwishlist:item=3110377595&perks=,1561002382,691659142,11612903
+dimwishlist:item=3110377595&perks=,1561002382,3523296417,11612903
+dimwishlist:item=3110377595&perks=,1561002382,3523296417,3425386926
+dimwishlist:item=3110377595&perks=,1561002382,691659142,3425386926
+
+//// Relentless
+//notes: pve. D-tier.
+dimwishlist:item=435821041&perks=,1561002382,247725512,4104185692
+
+//// Disparity
+//notes: pve. C-tier. One for All (E) OR Frenzy
+dimwishlist:item=1751893422&perks=,247725512,859780267
+dimwishlist:item=1751893422&perks=,247725512,4104185692
+
+//// Ogma PR6
+//notes: pve. B-tier. Demolitionist OR Stats for All, One for All > Adrenaline Junkie
+dimwishlist:item=2342054803&perks=,3523296417,4049631843
+dimwishlist:item=2342054803&perks=,3523296417,11612903
+dimwishlist:item=2342054803&perks=,1583705720,11612903
+dimwishlist:item=2342054803&perks=,1583705720,4049631843
+
+//// Oversoul Edict
+//notes: pve. B-tier. Enhance Voltshot ASAP
+dimwishlist:item=1098171824&perks=,1561002382,3828510309,1720528630
+dimwishlist:item=1098171824&perks=,1561002382,3828510309,2173046394
+
+//// Gridskipper
+//notes: pve. C-tier. Frenzy >> Adrenaline Junkie
+dimwishlist:item=1621558458&perks=,1561002382,4104185692
+dimwishlist:item=1621558458&perks=,1561002382,11612903
+
+/// Scout Rifles
+
+//// Night Watch
+//notes: pve. B-tier. Rapid Hit > Outlaw
+dimwishlist:item=3504336176&perks=,247725512,3038247973
+dimwishlist:item=3504336176&perks=,1168162263,3038247973
+
+//// Fang of Ir Yut
+//notes: pve. C-tier. Golden Tricorn OR Sword Logic
+dimwishlist:item=1432682459&perks=,1561002382,247725512,2610012052
+dimwishlist:item=1432682459&perks=,1561002382,247725512,31345821
+
+//// Perses-D
+//notes: pve. D-tier. Shoot to Loot > Rapid Hit
+dimwishlist:item=1019000888&perks=,1583705720,3038247973
+dimwishlist:item=1019000888&perks=,247725512,3038247973
+
+//// Staccato-46
+//notes: pve. B-tier. Shoot to Loot >> Triple Tap
+dimwishlist:item=4019668921&perks=,3700496672,3038247973
+dimwishlist:item=4019668921&perks=,3400784728,3038247973
+
+//// Tarnished Mettle
+//notes: pve. A-tier. Shoot to Loot OR Demolitionist, Voltshot OR Explosive Payload
+dimwishlist:item=2218569744&perks=,3700496672,2173046394
+dimwishlist:item=2218569744&perks=,3700496672,3038247973
+dimwishlist:item=2218569744&perks=,3523296417,3038247973
+dimwishlist:item=2218569744&perks=,3523296417,2173046394
+
+//// Doom of Chelchis
+//notes: pve. S-tier.
+dimwishlist:item=1937552980&perks=,3038247973,4049631843
+
+/// Sidearms
+
+//// Spoiler Alert
+//notes: pve. B-tier. Frenzy > Swashbuckler
+dimwishlist:item=2588048270&perks=,1561002382,4071163871,4104185692
+dimwishlist:item=2588048270&perks=,1561002382,4071163871,4082225868
+
+//// Mykel's Reverance
+//notes: pve. A-tier. Unrelenting (E) OR Pugilist
+dimwishlist:item=231031173&perks=,1561002382,855168139,4104185692
+dimwishlist:item=231031173&perks=,1561002382,691659142,4104185692
+
+//// Liminal Vigil
+//notes: pve. D-tier.
+dimwishlist:item=3138208275&perks=,1561002382,4071163871,3708227201
+
+//// Punching Out
+//notes: pve. B-tier. Threat Detector > Subsistence, Frenzy OR Surrounded
+dimwishlist:item=378498222&perks=,1561002382,4071163871,4104185692
+dimwishlist:item=378498222&perks=,1561002382,4071163871,3708227201
+dimwishlist:item=378498222&perks=,1561002382,1820235745,3708227201
+dimwishlist:item=378498222&perks=,1561002382,1820235745,4104185692
+
+//// Brigand's Law
+//notes: pve. S-tier. Feeding Frenzy OR Threat Detector
+dimwishlist:item=1298815317&perks=,2779035018,2173046394
+dimwishlist:item=1298815317&perks=,4071163871,2173046394
+
+//// Fioritura-59
+//notes: pve. B-tier. Repulsor Brace OR Golden Tricorn
+dimwishlist:item=2566006935&perks=,1561002382,4071163871,776531651
+dimwishlist:item=2566006935&perks=,1561002382,4071163871,2610012052
+
+/// Submachine Guns
+
+//// Cold Front
+//notes: pve. A-tier. Stats for All OR Rewind Rounds, One for All OR Frenzy
+dimwishlist:item=3206190066&perks=,1583705720,4049631843
+dimwishlist:item=3206190066&perks=,1583705720,4104185692
+dimwishlist:item=3206190066&perks=,3418782618,4104185692
+dimwishlist:item=3206190066&perks=,3418782618,4049631843
+
+//// The Immortal
+//notes: pve. D-tier.
+dimwishlist:item=4039572196&perks=,1561002382,4071163871,1015611457
+
+//// Prolonged Engagement
+//notes: pve. C-tier. Fourth Time's the Charm >> Feeding Frenzy, Frenzy OR One for All
+dimwishlist:item=2349907931&perks=,1561002382,1354429876,4104185692
+dimwishlist:item=2349907931&perks=,1561002382,1354429876,4049631843
+dimwishlist:item=2349907931&perks=,1561002382,2779035018,4049631843
+dimwishlist:item=2349907931&perks=,1561002382,2779035018,4104185692
+
+//// Parabellum
+//notes: pve. A-tier. Heal Cilp OR Rewind Rounds
+dimwishlist:item=3926811686&perks=,3017780555,4104185692
+dimwishlist:item=3926811686&perks=,3418782618,4104185692
+
+//// Subjunctive
+//notes: pve. S-tier. Voltshot > One for All (E)
+dimwishlist:item=1447836603&perks=,1409206216,2173046394
+dimwishlist:item=1447836603&perks=,1409206216,859780267
+
+//// Unforgiven
+//notes: pve. A-tier.
+dimwishlist:item=3000847393&perks=,1561002382,3523296417,4104185692
+
+// Special Weapons
+
+/// Fusion Rifles
+
+//// Scatter Signal
+//notes: pve. A-tier.
+dimwishlist:item=2558925366&perks=,689005463,2682205016,2594592626
+
+//// Riptide
+//notes: pve. A-tier. (Lead from Gold OR Auto-Loading Holster) >> Field Prep, (Chill Clip OR Frenzy) > Vorpal Weapon
+dimwishlist:item=2715240478&perks=,689005463,1556840489,2978966579
+dimwishlist:item=2715240478&perks=,689005463,1556840489,4104185692
+dimwishlist:item=2715240478&perks=,689005463,1556840489,1546637391
+dimwishlist:item=2715240478&perks=,689005463,3300816228,2978966579
+dimwishlist:item=2715240478&perks=,689005463,3300816228,4104185692
+dimwishlist:item=2715240478&perks=,689005463,3300816228,1546637391
+dimwishlist:item=2715240478&perks=,689005463,2869569095,2978966579
+dimwishlist:item=2715240478&perks=,689005463,2869569095,4104185692
+dimwishlist:item=2715240478&perks=,689005463,2869569095,1546637391
+
+//// Cartesian Coordinate
+//notes: pve. A-tier. Lead from Gold >> Slideways, Vorpal Weapon
+dimwishlist:item=2481881293&perks=,689005463,1556840489,1546637391
+dimwishlist:item=2481881293&perks=,689005463,2039302152,1546637391
+
+//// Loaded Question
+//notes: pve. B-tier. Overflow OR Envious Assassin, Controlled Burst OR Reservoir Burst
+dimwishlist:item=3125454907&perks=,689005463,3643424744,2594592626
+dimwishlist:item=3125454907&perks=,689005463,3643424744,1427256713
+dimwishlist:item=3125454907&perks=,689005463,968510818,1427256713
+dimwishlist:item=3125454907&perks=,689005463,968510818,2594592626
+
+//// Glacioclasm
+//notes: pve. B-tier. Controlled Burst OR Reservoir Burst
+dimwishlist:item=2728851518&perks=,689005463,3643424744,2594592626
+dimwishlist:item=2728851518&perks=,689005463,3643424744,1427256713
+
+/// Glaives
+
+//// Greasy Luck
+//notes: pve. B-tier. Replenishing Aegis > Impulse Amplifier
+dimwishlist:item=1757202961&perks=,1966281507,1782407750
+dimwishlist:item=1757202961&perks=,951095735,1782407750
+
+//// Albedo Wing
+//notes: pve. A-tier. Grave Robber >> Replenishing Aegis
+dimwishlist:item=2680976411&perks=,1631667848,1782407750
+dimwishlist:item=2680976411&perks=,1966281507,1782407750
+
+//// Ecliptic Distaff
+//notes: pve. A-tier.
+dimwishlist:item=3001205424&perks=,1966281507,1782407750
+
+/// Grenade Launchers
+
+//// Ignition Code
+//notes: pve. S-tier.
+dimwishlist:item=304659313&perks=,3032599245,3161816588
+
+//// Lingering Dread
+//notes: pve. B-tier.
+dimwishlist:item=2026087437&perks=,3032599245,3300816228,2978966579
+
+//// Empty Vessel
+//notes: pve. B-tier.
+dimwishlist:item=4255586669&perks=,3032599245,3300816228
+
+//// Prodigal Return
+//notes: pve. C-tier. Field Prep (E) OR Threat Detector
+dimwishlist:item=268260373&perks=,3032599245,2308090567,1720528630
+dimwishlist:item=268260373&perks=,3032599245,4071163871,1720528630
+
+//// Wilderflight
+//notes: pve. B-tier. Want swappable Disorienting and Spike grenades
+dimwishlist:item=2306182339&perks=,3032599245,3300816228,1546637391
+dimwishlist:item=2306182339&perks=,3301904089,3300816228,1546637391
+
+/// Wave Frame Grenade Launchers
+
+//// Tusk of the Boar
+//notes: pve. B-tier.
+dimwishlist:item=1218113510&perks=,2039302152,2396489472
+
+//// New Pacific Epitaph
+//notes: pve. C-tier. Lead from Gold OR Unrelenting
+dimwishlist:item=1125217994&perks=,1556840489,1015611457
+dimwishlist:item=1125217994&perks=,3108830275,1015611457
+
+//// Explosive Personality
+//notes: pve. C-tier. Unrelenting OR One for All (E)
+dimwishlist:item=4096943616&perks=,3528046508,3108830275
+dimwishlist:item=4096943616&perks=,3528046508,859780267
+
+//// Forbearance
+//notes: pve. S-tier. Unrelenting OR Ambitious Assassin
+dimwishlist:item=613334176&perks=,3108830275,2396489472
+dimwishlist:item=613334176&perks=,3108830275,598607952
+dimwishlist:item=613334176&perks=,2010801679,2396489472
+dimwishlist:item=613334176&perks=,2010801679,598607952
+
+//// Harsh Language
+//notes: pve. B-tier. Wellspring >> Threat Detector, Destabilizing Rounds OR Repulsor Brace
+dimwishlist:item=1606497639&perks=,3592538738,2048641572
+dimwishlist:item=1606497639&perks=,3592538738,776531651
+dimwishlist:item=1606497639&perks=,4071163871,776531651
+dimwishlist:item=1606497639&perks=,4071163871,2048641572
+
+/// Shotguns
+
+//// One Small Step
+//notes: pve. A-tier. One-Two Punch >> Trench Barrel
+dimwishlist:item=1016668089&perks=,1556840489,2679249093
+dimwishlist:item=1016668089&perks=,1556840489,2360754333
+
+//// Swordbreaker
+//notes: pve. B-tier. Pugilist OR Demolitionist
+dimwishlist:item=3163900678&perks=,691659142,2679249093
+dimwishlist:item=3163900678&perks=,691659142,788178929
+dimwishlist:item=3163900678&perks=,3523296417,788178929
+dimwishlist:item=3163900678&perks=,3523296417,2679249093
+
+//// Fractethyst
+//notes: pve. F-tier.
+dimwishlist:item=3184681056&perks=,1556840489,2360754333
+
+//// Ikelos_SG_V1.0.3
+//notes: pve. S-tier.
+dimwishlist:item=1168625549&perks=,1631667848,2679249093
+dimwishlist:item=1168625549&perks=,1631667848,788178929
+
+//// Dead Weight
+//notes: pve. A-tier. Grave Robber > Lead from Gold >> Field Prep, One-Two Punch >> Trench Barrel
+dimwishlist:item=3738678140&perks=,1631667848,2679249093
+dimwishlist:item=3738678140&perks=,1631667848,2360754333
+dimwishlist:item=3738678140&perks=,1556840489,2679249093
+dimwishlist:item=3738678140&perks=,1556840489,2360754333
+dimwishlist:item=3738678140&perks=,2869569095,2679249093
+dimwishlist:item=3738678140&perks=,2869569095,2360754333
+
+//// Basso Ostinato
+//notes: pve. A-tier. Grave Robber > Lead from Gold, One-Two Punch >> Trench Barrel
+dimwishlist:item=2573900604&perks=,1631667848,2679249093
+dimwishlist:item=2573900604&perks=,1631667848,2360754333
+dimwishlist:item=2573900604&perks=,1556840489,2360754333
+dimwishlist:item=2573900604&perks=,1556840489,2679249093
+
+/// Slug Shotguns
+
+//// Heritage
+//notes: pve. A-tier. Focused Fury (E) OR Recombination (E)
+dimwishlist:item=4248569242&perks=,1523832109,2896038713
+dimwishlist:item=4248569242&perks=,1523832109,469285294
+
+//// Supercluster
+//notes: pve. B-tier. Reconstruction (E) OR Fourth Times the Charm, Vorpal Weapon OR Surrounded (E)
+dimwishlist:item=92459755&perks=,1523832109,1546637391
+dimwishlist:item=92459755&perks=,1523832109,3708227201
+dimwishlist:item=92459755&perks=,1354429876,3708227201
+dimwishlist:item=92459755&perks=,1354429876,1546637391
+
+//// No Reprieve
+//notes: pve. F-tier.
+dimwishlist:item=2531963421&perks=,3400784728,3708227201
+
+//// Sojourner's Tale
+//notes: pve. B-tier.
+dimwishlist:item=599895591&perks=,3300816228,4104185692
+
+//// First In, Last Out
+//notes: pve. B-tier.
+dimwishlist:item=3616586446&perks=,3300816228,1546637391
+
+//// Nessa's Oblation
+//notes: pve. A-tier. Reconstruction (E) OR Fourth Times the Charm
+dimwishlist:item=135029084&perks=,1523832109,4104185692
+dimwishlist:item=135029084&perks=,1354429876,4104185692
+
+/// Sniper Rifles
+
+//// The Supremacy
+//notes: pve. S-tier. Bait and Switch (E) OR Kinetic Tremors (E)
+dimwishlist:item=2884596447&perks=,3418782618,3078487919
+dimwishlist:item=2884596447&perks=,3418782618,3891536761
+
+//// Naeem's Lance
+//notes: pve. F-tier.
+dimwishlist:item=2806569825&perks=,1523832109,555281244
+
+//// Irukandji
+//notes: pve. B-tier. Firing Line > Focused Fury
+dimwishlist:item=2673925403&perks=,1354429876,1771339417
+dimwishlist:item=2673925403&perks=,1354429876,2896038713
+
+//// Ikelos_SR_V1.0.3
+//notes: pve. A-tier.
+dimwishlist:item=2302346155&perks=,1354429876,2896038713
+
+//// Mechabre
+//notes: pve. D-tier.
+dimwishlist:item=3871226707&perks=,3400784728,1546637391
+
+//// Father's Sins
+//notes: pve. B-tier.
+dimwishlist:item=3865728990&perks=,3400784728,2896038713
+
+/// Trace Rifles
+
+//// Incisor
+//notes: pve. B-tier. Envious Assassin > Slice, Killing Tally >> Kill Clip
+dimwishlist:item=4248997900&perks=,968510818,557221067
+dimwishlist:item=4248997900&perks=,968510818,1015611457
+dimwishlist:item=4248997900&perks=,923806249,1015611457
+dimwishlist:item=4248997900&perks=,923806249,557221067
+
+//// Appetence
+//notes: pve. B-tier. Demolitionist OR Overflow, Deconstruct OR One for All
+dimwishlist:item=4153087276&perks=,3523296417,3993379141
+dimwishlist:item=4153087276&perks=,3523296417,4049631843
+dimwishlist:item=4153087276&perks=,3643424744,4049631843
+dimwishlist:item=4153087276&perks=,3643424744,3993379141
+
+//// Retraced Path
+//notes: pve. S-tier. Shoot to Loot >> (Subsistence (E) OR Adaptive Munitions (E)), Incandescent (E) OR Golden Tricorn (E)
+dimwishlist:item=548958835&perks=,3700496672,4293542123
+dimwishlist:item=548958835&perks=,3700496672,2610012052
+dimwishlist:item=548958835&perks=,1820235745,4293542123
+dimwishlist:item=548958835&perks=,1820235745,2610012052
+dimwishlist:item=548958835&perks=,1048183818,4293542123
+dimwishlist:item=548958835&perks=,1048183818,2610012052
+
+//// Hollow Denial
+//notes: pve. C-tier. Wellspring OR Repulsor Brace
+dimwishlist:item=2323544076&perks=,1556840489,3592538738
+dimwishlist:item=2323544076&perks=,1556840489,776531651
+
+// Heavy Weapons
+
+/// Grenade Launchers
+
+//// Cataphract GL3
+//notes: pve. S-tier. Envious Assassin > Auto-Loading Holster >> Field Prep, Bait and Switch > Explosive Light
+dimwishlist:item=2738601016&perks=,3301904089,968510818,3078487919
+dimwishlist:item=2738601016&perks=,3301904089,968510818,3194351027
+dimwishlist:item=2738601016&perks=,3301904089,3300816228,3078487919
+dimwishlist:item=2738601016&perks=,3301904089,3300816228,3194351027
+dimwishlist:item=2738601016&perks=,3301904089,2869569095,3078487919
+dimwishlist:item=2738601016&perks=,3301904089,2869569095,3194351027
+
+//// Typhon GL5
+//notes: pve. C-tier. Demolitionist > Impulse Amplifier
+dimwishlist:item=3568377122&perks=,3301904089,3523296417,3194351027
+dimwishlist:item=3568377122&perks=,3301904089,951095735,3194351027
+
+//// Marsilion-C
+//notes: pve. D-tier. Envious Assassin >> Field Prep, Vorpal Weapon > Explosive Light
+dimwishlist:item=867154247&perks=,3301904089,968510818,1546637391
+dimwishlist:item=867154247&perks=,3301904089,968510818,3194351027
+dimwishlist:item=867154247&perks=,3301904089,2869569095,1546637391
+dimwishlist:item=867154247&perks=,3301904089,2869569095,3194351027
+
+//// Wendigo GL3
+//notes: pve. A-tier. Auto-Loading Holster >> Field Prep
+dimwishlist:item=1854753404&perks=,3301904089,3300816228,3194351027
+dimwishlist:item=1854753404&perks=,3301904089,2869569095,3194351027
+
+//// Regnant
+//notes: pve. A-tier.
+dimwishlist:item=268260372&perks=,1380253176,3300816228,3194351027
+
+/// Linear Fusion Rifles
+
+//// Laser Painter
+//notes: pve. F-tier. Clown Cartridge >> Rapid Hit, Focused Fury >> Vorpal Weapon
+dimwishlist:item=3221722018&perks=,689005463,2284787283,2896038713
+dimwishlist:item=3221722018&perks=,689005463,2284787283,1546637391
+dimwishlist:item=3221722018&perks=,689005463,247725512,2896038713
+dimwishlist:item=3221722018&perks=,689005463,247725512,1546637391
+
+//// Fire and Forget
+//notes: pve. C-tier.
+dimwishlist:item=2272041093&perks=,689005463,2869569095,4104185692
+
+//// Cataclysmic
+//notes: pve. S-tier.
+dimwishlist:item=999767358&perks=,689005463,1354429876,3078487919
+
+//// Stormchaser
+//notes: pve. B-tier. Clown Cartridge > (Auto-Loading Holster OR Rapid Hit), Firing Line > Frenzy >> Vorpal Weapon
+dimwishlist:item=3652506829&perks=,689005463,2284787283,1771339417
+dimwishlist:item=3652506829&perks=,689005463,2284787283,4104185692
+dimwishlist:item=3652506829&perks=,689005463,2284787283,1546637391
+dimwishlist:item=3652506829&perks=,689005463,3300816228,1771339417
+dimwishlist:item=3652506829&perks=,689005463,3300816228,4104185692
+dimwishlist:item=3652506829&perks=,689005463,3300816228,1546637391
+dimwishlist:item=3652506829&perks=,689005463,247725512,1771339417
+dimwishlist:item=3652506829&perks=,689005463,247725512,4104185692
+dimwishlist:item=3652506829&perks=,689005463,247725512,1546637391
+
+//// Doomed Petitioner
+//notes: pve. A-tier. Envious Assassin OR Reconstruction, Precision Instrument OR Surrounded
+dimwishlist:item=1501688142&perks=,689005463,968510818,555281244
+dimwishlist:item=1501688142&perks=,689005463,968510818,3708227201
+dimwishlist:item=1501688142&perks=,689005463,1523832109,555281244
+dimwishlist:item=1501688142&perks=,689005463,1523832109,3708227201
+
+/// Machine Guns
+
+//// Marcato-45
+//notes: pve. F-tier. Triple Tap > Threat Detector, Golden Tricorn OR Surrounded
+dimwishlist:item=4233375372&perks=,3400784728,2610012052
+dimwishlist:item=4233375372&perks=,3400784728,3708227201
+dimwishlist:item=4233375372&perks=,4071163871,2610012052
+dimwishlist:item=4233375372&perks=,4071163871,3708227201
+
+//// Recurrent Impact
+//notes: pve. D-tier.
+dimwishlist:item=1572896086&perks=,1820235745,4049631843
+
+//// Unwavering Duty
+//notes: pve. A-tier. Auto-Loading Holster >> Field Prep, Incandescent OR Killing Tally
+dimwishlist:item=3624844116&perks=,3300816228,4293542123
+dimwishlist:item=3624844116&perks=,3300816228,557221067
+dimwishlist:item=3624844116&perks=,2869569095,557221067
+dimwishlist:item=3624844116&perks=,2869569095,4293542123
+
+//// Song of Ir Yut
+//notes: pve. B-tier.
+dimwishlist:item=2828278545&perks=,1523832109,31345821
+
+//// Commemoration
+//notse: pve. S-tier. Killing Tally (E) OR Repulsor Brace
+dimwishlist:item=4230965989&perks=,1523832109,557221067
+dimwishlist:item=4230965989&perks=,1523832109,776531651
+
+/// Rocket Launchers
+
+//// Semiotician
+//notes: pve. F-tier.
+dimwishlist:item=2922749929&perks=,3796465595,2869569095,3194351027
+
+//// Cold Comfort
+//notes: pve. A-tier. Envious Assassin >> Impulse Amplifier, Bait and Switch >> Explosive Light
+dimwishlist:item=839786290&perks=,3796465595,968510818,3078487919
+dimwishlist:item=839786290&perks=,3796465595,968510818,3194351027
+dimwishlist:item=839786290&perks=,3796465595,951095735,3078487919
+dimwishlist:item=839786290&perks=,3796465595,951095735,3194351027
+
+//// Apex Predator
+//notes: pve. S-tier. Bait and Switch (E) OR Explosive Light (E)
+dimwishlist:item=1851777734&perks=,3796465595,1523832109,3078487919
+dimwishlist:item=1851777734&perks=,3796465595,1523832109,3194351027
+
+//// Crux Termination IV
+//notes: pve. A-tier. (Clown Cartridge OR Reconstruction) > Envious Assassin
+dimwishlist:item=1719687748&perks=,3796465595,2284787283,3194351027
+dimwishlist:item=1719687748&perks=,3796465595,1523832109,3194351027
+dimwishlist:item=1719687748&perks=,3796465595,968510818,3194351027
+
+//// Braytech Osprey
+//notes: pve. D-tier. Envious Assassin > Auto-Loading Holster >> Field Prep
+dimwishlist:item=3667553455&perks=,3796465595,968510818,4104185692
+dimwishlist:item=3667553455&perks=,3796465595,3300816228,4104185692
+dimwishlist:item=3667553455&perks=,3796465595,2869569095,4104185692
+
+/// Swords
+
+//// Dragoncult Sickle
+//notes: pve. F-tier.
+dimwishlist:item=3668817296&perks=,3705817207,3913600130
+
+//// The Slammer
+//note: pve. B-tier. Bait and Switch OR Cold Steel
+dimwishlist:item=2889501828&perks=,2077819806,3078487919
+dimwishlist:item=2889501828&perks=,2077819806,3650930298
+
+//// Throne Cleaver
+//notes: pve. B-tier. Vorpal Weapon OR Surrounded (E)
+dimwishlist:item=3371413059&perks=,3705817207,1546637391
+dimwishlist:item=3371413059&perks=,3705817207,3708227201
+
+//// Half-Truths
+//notes: pve. S-tier.
+dimwishlist:item=3257091166&perks=,2590710093,2077819806
+
+//// The Other Half
+//notes: pve. S-tier.
+dimwishlist:item=3257091167&perks=,2077819806,4104185692
